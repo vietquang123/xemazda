@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://bit.ly/2AQOtyC' target='_blank'><img src='https://2.bp.blogspot.com/-LmXTzjA794c/W2rlTWSA3XI/AAAAAAAACa8/G6cNvBNG7OkIIXxjbSccpmkWPMunHSeugCLcBGAs/s1600/gia-xe-mazda-3-mau-trang-2017-2018.jpg' width='500px'/><br/>Bảng giá xe CX5 2018</a>. Liên hệ Hotline tư vấn. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://bit.ly/2AQOtyC' target='_blank'><img src='https://2.bp.blogspot.com/-LmXTzjA794c/W2rlTWSA3XI/AAAAAAAACa8/G6cNvBNG7OkIIXxjbSccpmkWPMunHSeugCLcBGAs/s1600/gia-xe-mazda-3-mau-trang-2017-2018.jpg' width='500px'/><br/>Bảng giá xe CX5 2018</a>. Liên hệ Hotline tư vấn: 0935.666.875. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
